@@ -32,6 +32,6 @@
   "homepage": "https://github.com/iRobik/cl-swearword-detector",
   "devDependencies": {
     "mocha": "~2.4.5",
-    "istanbul": "0.3.5",
+    "istanbul": "0.3.5"
   }
 }
