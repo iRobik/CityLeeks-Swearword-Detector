@@ -2,7 +2,8 @@
 
 CityLeeks swearword detection and filtering library.
 
-[![Build Status](https://travis-ci.org/iRobik/CityLeeks-Swearword-Detector.svg?branch=master)](https://travis-ci.org/iRobik/CityLeeks-Swearword-Detector)[![Coverage Status](https://coveralls.io/repos/github/iRobik/CityLeeks-Swearword-Detector/badge.svg?branch=master)](https://coveralls.io/github/iRobik/CityLeeks-Swearword-Detector?branch=master)
+[![Build Status](https://travis-ci.org/iRobik/CityLeeks-Swearword-Detector.svg?branch=master)](https://travis-ci.org/iRobik/CityLeeks-Swearword-Detector)
+[![Coverage Status](https://coveralls.io/repos/github/iRobik/CityLeeks-Swearword-Detector/badge.svg?branch=master)](https://coveralls.io/github/iRobik/CityLeeks-Swearword-Detector?branch=master)
 
 
 ## Usage
