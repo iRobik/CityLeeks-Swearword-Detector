@@ -1,0 +1,32 @@
+{
+  "name": "cl-swearword-detector",
+  "version": "1.0.0",
+  "description": "CityLeeks swearword detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://iRobik@github.com/iRobik/cl-swearword-detector.git"
+  },
+  "keywords": [
+    "swearword",
+    "swear-word",
+    "word",
+    "swear",
+    "swearing",
+    "curse",
+    "obscenity",
+    "damn",
+    "expletive",
+    "pejorative",
+    "cussword"
+  ],
+  "author": "Denis Gabidullin <d.s.gabidullin@norcity.ru>",
+  "license": "The MIT License (MIT)",
+  "bugs": {
+    "url": "https://github.com/iRobik/cl-swearword-detector/issues"
+  },
+  "homepage": "https://github.com/iRobik/cl-swearword-detector"
+}
